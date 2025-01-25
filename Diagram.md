@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Fast Food Restaurant] -->B(Dine-In)
     A --> C(Drive Thru)
@@ -15,3 +16,4 @@ flowchart TD
     M --> N{Eat food in vehicle}
     M --> O(Drive to destination)
     O --> P{Eat!}
+```
