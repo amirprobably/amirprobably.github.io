@@ -5,7 +5,7 @@
 
 # About Me
 ## My Interests
-> I like listening to music, spending time with my friends, and playing video games. I like to travel, so > far I've been to Taiwan, Thailand, South Korea, Japan, and I'm hoping to go to Brazil this summer. I'm a > Data Science major and I plan on transferring to UNC Charlotte.
+> I like listening to music, spending time with my friends, and playing video games. I like to travel, so far I've been to Taiwan, Thailand, South Korea, Japan, and I'm hoping to go to Brazil this summer. I'm a Data Science major and I plan on transferring to UNC Charlotte.
 ## Games I reccomend
 * [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2) - A western themed video game based in 1899
 * [Balatro](https://www.playbalatro.com/) - A roguelike video game based on playing poker hands to advance
